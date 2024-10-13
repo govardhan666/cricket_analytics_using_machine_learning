@@ -25,3 +25,18 @@ Our project “Cricket Analytics using Machine Learning” aims to develop a mac
 2. Click the "Predict Winning Probability" button.
 3. View the predicted winning probabilities for both the Batting and Bowling teams.
 
+# Project Screenshots: 
+
+![Screenshot 2024-10-13 171631](https://github.com/user-attachments/assets/2c65335b-af8a-4ad6-8073-67abc7836ced)
+
+![Screenshot 2024-10-13 171646](https://github.com/user-attachments/assets/c3424ad7-10dc-4ed7-b666-7fcc355947c8)
+
+![Screenshot 2024-10-13 171740](https://github.com/user-attachments/assets/182e8d82-51ea-4a78-99af-cda5a76b58a6)
+
+## Prediction results
+
+![Screenshot 2024-10-13 171754](https://github.com/user-attachments/assets/d2bd2e73-1213-412a-b4ee-6c5d21c9e05d)
+
+
+
+
